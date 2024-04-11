@@ -537,4 +537,16 @@ color: #2e2f42;
         border: 1px solid rgba(46, 47, 66, 0.4);
 border-radius: 4px;
 height: 40px;
+margin-bottom: 8px;
+background-color: transparent;
+padding-left: 37px;
+     }
+
+     .modal-label {
+        display: block;
+        margin-bottom: 4px;
+        font-size: 12px;
+line-height: 1.17;
+letter-spacing: 0.04em;
+color: #8e8f99;
      }
