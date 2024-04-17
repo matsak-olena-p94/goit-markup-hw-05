@@ -520,7 +520,6 @@ font-size: 12px;
 line-height: 2;
 letter-spacing: 0.04em; 
 color: #fff;
-outline: transparent;
     }
 
     .footer-form-input::placeholder {
@@ -730,6 +729,7 @@ gap: 8px;
      .check-fake {
 width: 16px;
 height: 16px;
+margin-right: 8px;
 border-radius: 2px;
 border: 1px solid rgba(46, 47, 66, 0.4);
 display: inline-flex;
